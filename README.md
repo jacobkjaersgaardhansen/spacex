@@ -9,7 +9,7 @@ data = fetch('https://raw.githubusercontent.com/jacobkjaersgaardhansen/spacex/ma
   .then(res => res.json());
   
 console.log(data);
-// expected output: [{ mission_name, launch_time_utc }, { mission_name, launch_time_utc }, ...]
+// expected output: [{ mission_name, launch_time_utc, ... }, { mission_name, launch_time_utc, ... }, ...]
 ```
 # Examples of applications using this data
 https://observablehq.com/@jacobkjaersgaardhansen/spacex-yearly-launches-by-days-elapsed

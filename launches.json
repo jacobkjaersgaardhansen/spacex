@@ -490,5 +490,18 @@
 	"launch_outcome": "success",
 	"booster_landing_outcome": "success",
 	"booster_landing_type": "drone ship"
+  },
+  {
+	"flight_number": "113",
+	"payload": "Starlink 23 v1.0",
+	"launch_time_utc": "2021-04-07T16:34Z",
+	"booster": "B1058.7",
+	"launch_site": "SLC-40",
+	"payload_mass_kg": 15600,
+	"orbit": "LEO",
+	"customer": "SpaceX",
+	"launch_outcome": "success",
+	"booster_landing_outcome": "success",
+	"booster_landing_type": "drone ship"
   }
 ]

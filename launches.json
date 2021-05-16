@@ -551,5 +551,17 @@
 	"launch_outcome": "success",
 	"booster_landing_outcome": "success",
 	"booster_landing_type": "drone ship"
+  },
+  {
+	"flight_number": "118",
+	"payload": "Starlink 26 v1.0 + Capella-6 & Tyvak-0130",
+	"launch_time_utc": "2021-05-15T22:56Z",
+	"booster": "B1058.8",
+	"launch_site": "LC-39A",
+	"orbit": "LEO",
+	"customer": "SpaceX, Capella Space, Tyvak",
+	"launch_outcome": "success",
+	"booster_landing_outcome": "success",
+	"booster_landing_type": "drone ship"
   }
 ]

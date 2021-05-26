@@ -563,5 +563,17 @@
 	"launch_outcome": "success",
 	"booster_landing_outcome": "success",
 	"booster_landing_type": "drone ship"
+  },
+  {
+	"flight_number": "119",
+	"payload": "Starlink 28 v1.0",
+	"launch_time_utc": "2021-05-26T18:59Z",
+	"booster": "B1063.2",
+	"launch_site": "SLC-40",
+	"orbit": "LEO",
+	"customer": "SpaceX",
+	"launch_outcome": "success",
+	"booster_landing_outcome": "success",
+	"booster_landing_type": "drone ship"
   }
 ]

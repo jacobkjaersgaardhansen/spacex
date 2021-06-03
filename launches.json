@@ -575,5 +575,17 @@
 	"launch_outcome": "success",
 	"booster_landing_outcome": "success",
 	"booster_landing_type": "drone ship"
+  },
+  {
+	"flight_number": "120",
+	"payload": "CRS-22",
+	"launch_time_utc": "2021-06-03T17:29Z",
+	"booster": "B1067.1",
+	"launch_site": "LC-39A",
+	"orbit": "LEO",
+	"customer": "NASA",
+	"launch_outcome": "success",
+	"booster_landing_outcome": "success",
+	"booster_landing_type": "drone ship"
   }
 ]

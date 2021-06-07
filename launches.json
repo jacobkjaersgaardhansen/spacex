@@ -587,5 +587,17 @@
 	"launch_outcome": "success",
 	"booster_landing_outcome": "success",
 	"booster_landing_type": "drone ship"
+  },
+  {
+	"flight_number": "121",
+	"payload": "SXM-8",
+	"launch_time_utc": "2021-06-06T04:26Z",
+	"booster": "B1061.3",
+	"launch_site": "SLC-40",
+	"orbit": "LEO",
+	"customer": "Sirius XM",
+	"launch_outcome": "success",
+	"booster_landing_outcome": "success",
+	"booster_landing_type": "drone ship"
   }
 ]

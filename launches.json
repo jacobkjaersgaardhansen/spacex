@@ -599,5 +599,17 @@
 	"launch_outcome": "success",
 	"booster_landing_outcome": "success",
 	"booster_landing_type": "drone ship"
+  },
+  {
+	"flight_number": "122",
+	"payload": "GPS III-05",
+	"launch_time_utc": "2021-06-17T16:09Z",
+	"booster": "B1062.1",
+	"launch_site": "SLC-40",
+	"orbit": "MEO",
+	"customer": "USSF",
+	"launch_outcome": "success",
+	"booster_landing_outcome": "success",
+	"booster_landing_type": "drone ship"
   }
 ]

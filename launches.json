@@ -611,5 +611,17 @@
 	"launch_outcome": "success",
 	"booster_landing_outcome": "success",
 	"booster_landing_type": "drone ship"
+  },
+  {
+	"flight_number": "123",
+	"payload": "Transporter-2",
+	"launch_time_utc": "2021-06-30T19:31Z",
+	"booster": "B1060.8",
+	"launch_site": "SLC-40",
+	"orbit": "SSO",
+	"customer": "Various",
+	"launch_outcome": "success",
+	"booster_landing_outcome": "success",
+	"booster_landing_type": "land"
   }
 ]

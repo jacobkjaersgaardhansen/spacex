@@ -647,5 +647,17 @@
 	"launch_outcome": "success",
 	"booster_landing_outcome": "success",
 	"booster_landing_type": "drone ship"
+  },
+  {
+	"flight_number": "126",
+	"payload": "Inspiration4",
+	"launch_time_utc": "2021-09-16T02:56Z",
+	"booster": "B1062.3",
+	"launch_site": "LC-39A",
+	"orbit": "LEO",
+	"customer": "Shift4 Payments",
+	"launch_outcome": "success",
+	"booster_landing_outcome": "success",
+	"booster_landing_type": "drone ship"
   }
 ]
